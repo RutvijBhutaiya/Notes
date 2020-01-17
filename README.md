@@ -16,3 +16,8 @@ If there is mix and overlap – use KNN method because Knn goes for Euclidian di
 
 5.	Residuals = Actual – predicted 
 
+6.	What is Statistic? How to use: IN real world when we do experiment for example if want to measure Swatch Bharat Abhiyan impact in rural sanitation. Then we can’t take data from every villages (cost involved). So, we take sample, let’s say 20 village (choosing right sampling method). And we run statistics – Descriptive stats (mean medium mode, relationship) and Inferential Stats (ANOVA, t-test, Hypothesis). And we can come to conclusion Perspective stats How Swatch Bharat worked in villages and what needs to improve.  
+
+7.	P-value: less the p-value mean less often we expect the result/value, if Null Hypothesis is true. Hence, in hypothesis we try to reduce p-value (< 0.05) and hence, proved that the value occurrence is less and based on that we reject the Null. And Alternate Hypo approved. 
+
+
