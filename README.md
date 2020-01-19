@@ -20,4 +20,8 @@ If there is mix and overlap – use KNN method because Knn goes for Euclidian di
 
 7.	P-value: less the p-value mean less often we expect the result/value, if Null Hypothesis is true. Hence, in hypothesis we try to reduce p-value (< 0.05) and hence, proved that the value occurrence is less and based on that we reject the Null. And Alternate Hypo approved. 
 
+8.	Sampling Distribution (Before every distribution we do this): Can use histogram for smooth curve. Here we computer choose random numbers based on the probability described by the histogram curve. 
+-	We take sample from distribution to explore statistics We can generate n numbers of samples and can use it statically (t test, z test, chi test) to explore it. 
+-	If distribution is same for both samples, p-value should be large. If different, p-value small. 
 
+9.
