@@ -24,4 +24,10 @@ If there is mix and overlap – use KNN method because Knn goes for Euclidian di
 -	We take sample from distribution to explore statistics We can generate n numbers of samples and can use it statically (t test, z test, chi test) to explore it. 
 -	If distribution is same for both samples, p-value should be large. If different, p-value small. 
 
-9.
+9. Central Limit Theorem: Central Limit Theorem states that if you add up independent random variables, their normalization sum tends towards normal distribution. CLM holds even if random variables themselves do not come from a normal distribution.  
+-	E.g. create 100 samples, u’ll get 100 means from each sample. And If histogram is not skewed it means normal distribution. In 2nd e.g created 100 means from right skewed data and still histogram is normal. 
+-	So, who cares from where the data is come from, we can always sample it and normally distribute it CLM. And we can use normal distribution for confidence interval (Hypothesis) or also for t-test (for 2 samples) or ANOVA (for more than 2 samples)
+-	BUT for CLM – SAMPLE SHOULD BE AROUND 30. IF SAMPLE SIZE IS 20 RULE IS BROKEN. 
+
+10. 
+
