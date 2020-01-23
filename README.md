@@ -1,5 +1,6 @@
-# Notes
-Data Sceince concepts notes for refrence
+# Statistics Notes
+
+Data Science Stats concepts notes for refrence
 
 
 1.  Mahanolobis distance: It is used when independent variable are correlated. And hence, in that situation Euclidian distance would not work.  So we use Mahanolobis distance. 
