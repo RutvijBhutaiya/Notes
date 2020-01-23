@@ -38,6 +38,13 @@ If there is mix and overlap – use KNN method because Knn goes for Euclidian di
 -	SD of means called standard error. (So, if we take 5 sample and calculate their SD, and when we avg. all SD, we get std error)
 -	Step 1. Take 5 samples 2. Take mean for each sample 3. Take SD 4. Get std error.
 
-12. 
+12.	T-test: Before and after measurement from same test study. (Like Golf ball and new golf ball shape). So, you have paired data. 
+-	Two tail t-test: When you what to check low and high end of the test. Like in Golf balls e.g. you want to see the low distance and max distance test. 
+-	One tail t-test: When you are sure that you want to test only max distance of the golf balls test. You choose one tail t-test. 
+-	Preferred two tail – because let the data speak itself in test. (but still depends)
+-	Two tailed T-test tells us whether new measurements are better, worst or not significant different. One tail test doesn’t distinguish worst and not significant results. It only gives better or not significant result.  
+
+13. 
+
 
 
