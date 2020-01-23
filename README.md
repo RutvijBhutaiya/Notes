@@ -29,5 +29,15 @@ If there is mix and overlap – use KNN method because Knn goes for Euclidian di
 -	So, who cares from where the data is come from, we can always sample it and normally distribute it CLM. And we can use normal distribution for confidence interval (Hypothesis) or also for t-test (for 2 samples) or ANOVA (for more than 2 samples)
 -	BUT for CLM – SAMPLE SHOULD BE AROUND 30. IF SAMPLE SIZE IS 20 RULE IS BROKEN. 
 
-10. 
+10. Quantile (Percentiles): If there are 10 data points of Students weight.  5 data measurements are below 5 and 5 are above 5. Then quantile is 50% because 50% above medium and 50% below medium.  Now, if we again split the both the sets (above 50% and below) we get 2 more quintiles (in below 50% we get 0.25 point as quantile and at above 50% we get 0.75 point at quantile).
+-	Percentile are quintiles that divide data into 100 equal size. Like, 25th or 60th percentile etc.  
+
+
+11. Standard Errors: 
+-	3 common type of errors, 1. SD: Big SD shows some data points are far from the mean. 2. Std error: Tells how mean is distributed. 3. Confidence interval related to std error.  
+-	SD of means called standard error. (So, if we take 5 sample and calculate their SD, and when we avg. all SD, we get std error)
+-	Step 1. Take 5 samples 2. Take mean for each sample 3. Take SD 4. Get std error.
+
+12. 
+
 
