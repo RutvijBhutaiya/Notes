@@ -56,7 +56,7 @@ If there is mix and overlap – use KNN method because Knn goes for Euclidian di
 
 16.	Correlation: Relationship between two variables (Strong / Moderate / Weak)
 
-
+17.	Data Validation: To check the accuracy and quality of the data source, before processing the data. E.g Range check
 
 
 
