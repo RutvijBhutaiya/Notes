@@ -45,7 +45,13 @@ If there is mix and overlap – use KNN method because Knn goes for Euclidian di
 -	Preferred two tail – because let the data speak itself in test. (but still depends)
 -	Two tailed T-test tells us whether new measurements are better, worst or not significant different. One tail test doesn’t distinguish worst and not significant results. It only gives better or not significant result.  
 
-13. 
+13. A/B Testing (Same as Hypothesis testing)
+-	A/B testing is to give two variants of same model, to different set of process. Whichever variant gives accurate results becomes winner. 
+-	Example – Website traffic and conversation ratio - One way to optimize your website’s funnel is A/B testing. A/B testing (also sometimes referred to as split testing) is the practice of showing two variants of the same web page to different segments of visitors at the same time and comparing which variant drives more conversions. Typically, the one that gives higher conversions is the winning variant, applying, which can help you optimize your site for better results.
+-	Once you explain A/B test concept. Give example of Ho and Ha and how p-value is useful to reject or keep Ho.
+
+14. 
+
 
 
 
