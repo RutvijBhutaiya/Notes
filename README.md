@@ -50,7 +50,12 @@ If there is mix and overlap – use KNN method because Knn goes for Euclidian di
 -	Example – Website traffic and conversation ratio - One way to optimize your website’s funnel is A/B testing. A/B testing (also sometimes referred to as split testing) is the practice of showing two variants of the same web page to different segments of visitors at the same time and comparing which variant drives more conversions. Typically, the one that gives higher conversions is the winning variant, applying, which can help you optimize your site for better results.
 -	Once you explain A/B test concept. Give example of Ho and Ha and how p-value is useful to reject or keep Ho.
 
-14. 
+14. Variance: In random variable how much data deviates from mean. E.g. x = 3,3,3,3 and Y= 1,3,3,5. Bothe variables has same mean but different variance. 
+
+15.	Covariance: In two random variables, when variable Apple size deviated from it’s mean when variable grapes size deviated from it’s mean. We see the trend (positive / negative / No trend) in covariance. 
+
+16.	Correlation: Relationship between two variables (Strong / Moderate / Weak)
+
 
 
 
