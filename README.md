@@ -58,5 +58,17 @@ If there is mix and overlap – use KNN method because Knn goes for Euclidian di
 
 17.	Data Validation: To check the accuracy and quality of the data source, before processing the data. E.g Range check
 
+18. Normal Distribution:
+-	IN probability distribution, Normal distribution is widely used by Data scientists. 
+-	Also known as Gaussian distribution.
+-	Normal distribution based on purely 2 parameters. Mean and SD.
+-	Mean is average value of samples. And SD is how diverse data is from the mean. 
+-	This is based on random variables selected, now when you add new variable to the distribution, it will automatically fall under normal distribution. Thanks to Central Limit Theorem. 
+-	Normal Dist. is important for high accuracy of the model. 
+-	Mean = mode = medium 
+-	1 SD = 68.2% area
+-	2 SD = 95.5% area
+-	3 SD = 99.7% area
+-	This is gives the confidence to predict, less deviation better. 
 
 
