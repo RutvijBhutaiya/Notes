@@ -71,4 +71,12 @@ If there is mix and overlap – use KNN method because Knn goes for Euclidian di
 -	3 SD = 99.7% area
 -	This is gives the confidence to predict, less deviation better. 
 
+19.	How statistics can lead to wrong decision: (Very Interesting) explained Simpson’s Paradox
+-	https://www.ted.com/talks/mark_liddell_how_statistics_can_be_misleading#t-137041
+-	Example of 2 hospital, and example of smokers. 
+
+20.	Bayes theorem: (https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb)
+-	Mathematical formula for determining conditional probability. 
+-	E.g. In finance, can identify risk to lending money to protentional buyers
+-	E.g In pharma, medical test accuracy, for a person carries decease or not. 
 
