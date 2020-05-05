@@ -80,3 +80,20 @@ If there is mix and overlap – use KNN method because Knn goes for Euclidian di
 -	E.g. In finance, can identify risk to lending money to protentional buyers
 -	E.g In pharma, medical test accuracy, for a person carries decease or not. 
 
+21.	Posterior Probability and Prior Probability: 
+-	Posterior probability is the probability an event will happen after all evidence or background information has been taken into account. It is closely related to prior probability, which is the probability an event will happen before you taken any new evidence into account
+
+
+
+22.	Marginal, Joint and Conditional Probability: 
+-	Marginal probability is not conditioned on another events. It’s unconditional probability.
+-	Joint is two events happening together. E.g. probability that card is red and 4. (2/52), 52 cards in deck and 2, for cards. 
+-	Conditional is p(A|B) here, probability of even A occurring is dependent on occurring of event B. E.g given that drew that red card, what’s the probability that it is a 4. (2/26). 26 red cards and 2, four cards. 
+
+
+23.	Probability Density Function (PDF): PDF is statistically expression that defines a probability distribution. It is continuous (e.g. Height, Wight, salary etc). 
+-	Where Probability Mass Function (PMF) is discrete (e.g car dealer sold cars in one month, applications for job received in a month etc.) 
+-	PDF requires an interval P(x1 < x < x2) means prob of x falls between x1 and x2 in bell curve normal continuous data. 
+-	PMF is exact, e.g. 5 cars sold in a month or 200 applicants applied in a month for a job there is not 200.5 or 199.3. hence it is exact. 
+
+
